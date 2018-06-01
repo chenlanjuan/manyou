@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/PlanResult/plan",
+    "pages/UserMetrics/metrics",
+    "pages/result/result"
+  ],
+  "window":{
+    "backgroundTextStyle":"bold",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "漫游",
+    "navigationBarTextStyle":"black"
+  }
+}
